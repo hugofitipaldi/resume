@@ -1,6 +1,7 @@
 Id used for finding text block,Contents of text block. Supports markdown formatting.
 loc,text
-intro,"I am an enthusiastic and detail-oriented Data Scientist with a deep passion for mathematics. As a Ph.D. student in the Genetic and Molecular Epidemiology (GAME) unit at Lund University, I've focused on applying novel statistical tools with the aim to optimize health data integration. I have participated in multidisciplinary teams in which I contributed to data analysis, research design, building dashboards, and project management."
+intro,"I am an enthusiastic and detail-oriented Data Scientist with a deep passion for mathematics. As a postdoctoral fellow at Lund University, I apply data mining and AI-based frameworks to structured and unstructured health datasets, with a focus on epidemiology, public health, and systems medicine. I have over four years of experience in genetic epidemiology, data science, and machine learning, and I hold a PhD and a master's degree in medical sciences and public health, respectively.
+"
 industy_experience_aside,
 teaching_experience_aside,
 data_science_writing_aside,
