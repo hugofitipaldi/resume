@@ -1,7 +1,6 @@
 Id used for finding text block,Contents of text block. Supports markdown formatting.
 loc,text
-intro,"I am an enthusiastic and detail-oriented Data Scientist with a deep passion for mathematics. As a postdoctoral fellow at Lund University, I apply data mining and AI-based frameworks to structured and unstructured health datasets, with a focus on epidemiology, public health, and systems medicine. I have over four years of experience in genetic epidemiology, data science, and machine learning, and I hold a PhD and a master's degree in medical sciences and public health, respectively.
-"
+intro,"I'm a Data Scientist with a Ph.D. in Genetic Epidemiology and a strong background in statistical programming, data analysis, and machine learning, particularly within clinical research settings. My expertise lies in biostatistics and I excel at analyzing complex datasets to uncover significant trends and relationships, which I then translate into clear, practical insights that drive informed decision-making. I am particularly skilled in creating clear visualizations, dashboards, and presentations to communicate complex data effectively to diverse audiences."
 industy_experience_aside,
 teaching_experience_aside,
 data_science_writing_aside,

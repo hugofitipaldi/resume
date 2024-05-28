@@ -61,16 +61,16 @@ Contact {#contact}
 
 Technical Skills {#skills}
 --------------------------------------------------------------------------------
-````{r}
+```{r}
 CV %>% print_skill_bars()
 ```
 
 Open Source Contributions {#open-source}
 --------------------------------------------------------------------------------
 
-* [`covidsymptom`](https://github.com/csss-resultat/covidsymptom): R package to easily import and plot COVID Symptom Study data.
-* [`genderAPI`](https://github.com/hugofitipaldi/genderAPI): R package to access genderapi.io and predict a gender by name.
-* [`affiliation`](https://github.com/hugofitipaldi/affiliation): Named entity recognition package to extract affiliation locations from co-authorship lists in scientific publications.
+* [`covidsymptom`](https://github.com/csss-resultat/covidsymptom): An R package designed to effortlessly import and visualize COVID Symptom Study data.
+* [`genderAPI`](https://github.com/hugofitipaldi/genderAPI): An R package enabling access to genderapi.io for predicting gender based on a given name.
+* [`affiliation`](https://github.com/hugofitipaldi/affiliation): A named entity recognition package crafted to extract affiliation locations from co-authorship lists in scientific publications.
 
 
 Main
@@ -85,21 +85,19 @@ CV %<>% print_text_block("intro")
 ```
 
 
+Experience {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+```{r}
+CV %<>% print_section('research_positions')
+```
+
 
 Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
 
 ```{r}
 CV %<>% print_section('education')
-```
-
-
-
-Experience {data-icon=suitcase}
---------------------------------------------------------------------------------
-
-```{r}
-CV %<>% print_section('research_positions')
 ```
 
 
